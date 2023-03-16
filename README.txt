@@ -1,7 +1,12 @@
-The only source code is main.py located in the source codes directory.
-To run this code, open cmd and change to the source codes directory.
-Then run the command: 'python main.py'
+# Line-Break-Problem-DP
 
+This program tests three approaches to the line breaking problem
+The first approach is a top down dynamic programmin approach
+The second approach is a bottom up DP approach
+Finally the last one is recursive
+
+
+The only source code is main.py
 The python file has the following dependencies:
 copy, random, time
 
